@@ -1,4 +1,5 @@
 <h3 align="center">Passionate, Lifetime Learner BackEnd Developer From Egypt.</h3>
+<p align="left" dir="auto"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://camo.githubusercontent.com/92c17a0bca0bf095d35da46b2f0116a5a4ee8b88c64fee08a72cd3eb03351169/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6d6f68616d65642d616264656c72686d616e2d656c746168617779" alt="mohamed-abdelrhman-eltahawy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=mohamed-abdelrhman-eltahawy" style="max-width: 100%;"></a> </p>
 
 - 🌱 I’m currently learning **C#, Sql and Asp.Net Mvc**
 
