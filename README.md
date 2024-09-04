@@ -1,4 +1,4 @@
-<h3 align="center">Passionate, Lifetime Learner BackEnd Developer From Egypt.</h3>
+<h3 align="center">Passionate, Lifetime Learner Backend developer From Egypt.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EhapAzzazi" alt="EhapAzzazi" /></a> </p>
 
 - 🌱 I’m currently learning **C#, Sql and Asp.Net Mvc**
